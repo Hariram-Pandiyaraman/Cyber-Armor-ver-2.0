@@ -1,0 +1,12 @@
+{
+  "WHOIS Analysis": {
+    "short_registration_period": false,
+    "registrar_flagged": false,
+    "status_flagged": false,
+    "domain_name_flagged": true
+  },
+  "NLP Analysis": [
+    ("login", "NN")
+  ],
+  "CNN Image Analysis": "Phishing Detected"
+}
